@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Age Calculator", "Age Calculator\Age Calculator.csproj", "{BDDC9F56-3036-4CDE-9AD9-537AC70DFB37}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{6FEFFE0C-FA23-4069-AFDF-07C078AE2C9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDDC9F56-3036-4CDE-9AD9-537AC70DFB37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDDC9F56-3036-4CDE-9AD9-537AC70DFB37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDDC9F56-3036-4CDE-9AD9-537AC70DFB37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDDC9F56-3036-4CDE-9AD9-537AC70DFB37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FEFFE0C-FA23-4069-AFDF-07C078AE2C9E}.Debug|Any CPU.ActiveCfg = Debug
+		{6FEFFE0C-FA23-4069-AFDF-07C078AE2C9E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C8CA4B5-7C76-4DFF-AA86-F78B26C8E9EB}
+	EndGlobalSection
+EndGlobal
